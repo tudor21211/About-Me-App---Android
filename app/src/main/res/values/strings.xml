@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Tudor</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit lacus leo, ut vestibulum elit convallis ac. Sed vitae laoreet enim. Ut iaculis sem vel mollis consectetur. Fusce vel erat nulla. Etiam imperdiet massa eu ipsum placerat, eu pretium ipsum maximus. Etiam diam nibh, congue eget semper id, blandit nec magna. Sed cursus molestie accumsan. Vivamus vel mi eget tortor consectetur fringilla ac at dui.
+
+    Vestibulum pulvinar mi sit amet dolor dapibus, eget laoreet nibh consequat. Donec facilisis velit sed magna placerat, ac iaculis metus pharetra. Fusce quis sodales augue. Sed suscipit, sem ut malesuada laoreet, orci quam pellentesque nisl, et cursus ligula orci vel augue. Etiam nulla lorem, iaculis at aliquam nec, porttitor ut diam. Quisque aliquet turpis et nisl rutrum faucibus. Donec commodo in dolor ut pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis porta felis. Donec enim nulla, finibus at metus et, pellentesque commodo odio. Ut non neque hendrerit, vulputate eros sed, lacinia risus.
+
+        Aenean elementum nulla quam, id malesuada sem pretium et. Sed mollis aliquet vestibulum. Sed ac lobortis odio, non gravida sem. Nunc auctor eleifend sapien ut sollicitudin. Morbi dignissim vitae velit a cursus. Suspendisse eros massa, volutpat a bibendum eget, luctus a odio. Nullam sed nulla a nibh auctor venenatis. Integer rhoncus purus ut est elementum hendrerit. Mauris luctus dapibus nisl, vel sodales leo consectetur sed.
+    In ut vehicula purus. Nunc vel consequat quam, eu bibendum purus. Vivamus faucibus commodo quam, accumsan molestie eros congue nec. Proin pulvinar rhoncus consectetur. Sed ipsum ipsum, aliquam at ligula viverra, interdum sollicitudin mauris. Donec id risus nibh. Fusce turpis orci, lacinia non interdum ut, dignissim quis sapien.
+
+Nullam scelerisque non metus eu laoreet. Nulla bibendum leo ligula, et placerat quam pulvinar vitae. Quisque condimentum turpis nulla, sed eleifend diam pharetra non. Curabitur consequat ut purus et vestibulum. Maecenas mattis cursus tortor a rhoncus. Nam feugiat nisl neque, eget commodo velit iaculis id. Nullam sed finibus odio. Donec semper venenatis bibendum. Donec vitae magna nec metus interdum pulvinar. Nunc at enim nunc. Sed euismod sed ex ut sodales.</string>
 </resources>

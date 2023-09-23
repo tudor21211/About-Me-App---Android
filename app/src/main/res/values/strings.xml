@@ -10,4 +10,7 @@
     In ut vehicula purus. Nunc vel consequat quam, eu bibendum purus. Vivamus faucibus commodo quam, accumsan molestie eros congue nec. Proin pulvinar rhoncus consectetur. Sed ipsum ipsum, aliquam at ligula viverra, interdum sollicitudin mauris. Donec id risus nibh. Fusce turpis orci, lacinia non interdum ut, dignissim quis sapien.
 
 Nullam scelerisque non metus eu laoreet. Nulla bibendum leo ligula, et placerat quam pulvinar vitae. Quisque condimentum turpis nulla, sed eleifend diam pharetra non. Curabitur consequat ut purus et vestibulum. Maecenas mattis cursus tortor a rhoncus. Nam feugiat nisl neque, eget commodo velit iaculis id. Nullam sed finibus odio. Donec semper venenatis bibendum. Donec vitae magna nec metus interdum pulvinar. Nunc at enim nunc. Sed euismod sed ex ut sodales.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">done</string>
+    <string name="nick"> </string>
 </resources>
